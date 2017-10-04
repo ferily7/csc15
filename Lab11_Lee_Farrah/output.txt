@@ -1,0 +1,3125 @@
+Player 1 draws 8 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws Queen - Player 2 draws Jack
+Player 1 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 10 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 3 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws 8 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 5 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 10 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 6 - Player 2 draws 6
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card Queen - Player 2 draws last card 5
+Player 1 wins the cards!
+Player 1 has 32 cards - Player 2 has 20 cards
+Player 1 draws 9 - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 33 cards - Player 2 has 19 cards
+Player 1 draws Ace - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 34 cards - Player 2 has 18 cards
+Player 1 draws 4 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 35 cards - Player 2 has 17 cards
+Player 1 draws 7 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 34 cards - Player 2 has 18 cards
+Player 1 draws 9 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 33 cards - Player 2 has 19 cards
+Player 1 draws Ace - Player 2 draws Jack
+Player 1 wins the cards!
+Player 1 has 34 cards - Player 2 has 18 cards
+Player 1 draws 2 - Player 2 draws 3
+Player 2 wins the cards!
+Player 1 has 33 cards - Player 2 has 19 cards
+Player 1 draws 7 - Player 2 draws 7
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 6 - Player 2 draws last card 2
+Player 1 wins the cards!
+Player 1 has 38 cards - Player 2 has 14 cards
+Player 1 draws Jack - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 39 cards - Player 2 has 13 cards
+Player 1 draws King - Player 2 draws Queen
+Player 1 wins the cards!
+Player 1 has 40 cards - Player 2 has 12 cards
+Player 1 draws Queen - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 41 cards - Player 2 has 11 cards
+Player 1 draws Jack - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 40 cards - Player 2 has 12 cards
+Player 1 draws 8 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 39 cards - Player 2 has 13 cards
+Player 1 draws 5 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 38 cards - Player 2 has 14 cards
+Player 1 draws 5 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 39 cards - Player 2 has 13 cards
+Player 1 draws 4 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 38 cards - Player 2 has 14 cards
+Player 1 draws 10 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 39 cards - Player 2 has 13 cards
+Player 1 draws 3 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 38 cards - Player 2 has 14 cards
+Player 1 draws 6 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 37 cards - Player 2 has 15 cards
+Player 1 draws 4 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 36 cards - Player 2 has 16 cards
+Player 1 draws 7 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 37 cards - Player 2 has 15 cards
+Player 1 draws 4 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 38 cards - Player 2 has 14 cards
+Player 1 draws 10 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 37 cards - Player 2 has 15 cards
+Player 1 draws 3 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 36 cards - Player 2 has 16 cards
+Player 1 draws 6 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 35 cards - Player 2 has 17 cards
+Player 1 draws 6 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 34 cards - Player 2 has 18 cards
+Player 1 draws Queen - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 35 cards - Player 2 has 17 cards
+Player 1 draws 5 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 34 cards - Player 2 has 18 cards
+Player 1 draws 9 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 35 cards - Player 2 has 17 cards
+Player 1 draws 8 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 34 cards - Player 2 has 18 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 35 cards - Player 2 has 17 cards
+Player 1 draws 10 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 34 cards - Player 2 has 18 cards
+Player 1 draws 4 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 33 cards - Player 2 has 19 cards
+Player 1 draws 2 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 32 cards - Player 2 has 20 cards
+Player 1 draws Ace - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 33 cards - Player 2 has 19 cards
+Player 1 draws Jack - Player 2 draws Jack
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card Queen - Player 2 draws last card Ace
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 5 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 8 - Player 2 draws 8
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 2 - Player 2 draws last card King
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Jack - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 9 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws King - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws Queen - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Queen - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 8 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws 5 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 3 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws 10 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 7 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 7 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 2 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws 4 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 3 - Player 2 draws 3
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 4 - Player 2 draws last card Ace
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Ace - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 3 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Ace - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 4 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Jack - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 8 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws King - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 10 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws Queen - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 4 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 8 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 6 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 5 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 2 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 4 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 2 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 5 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Ace - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 7 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Jack - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 7 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws King - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 6 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 10 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 5 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Queen - Player 2 draws Queen
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card Ace - Player 2 draws last card 9
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 3 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 10 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws Jack - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 7 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws King - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 7 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 10 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 2 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 8 - Player 2 draws 8
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 2 - Player 2 draws last card 6
+Player 2 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws Jack - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Queen - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws Queen - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws Ace - Player 2 draws 2
+Player 2 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 9 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Ace - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 3 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 10 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 3 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Jack - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 4 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws King - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 3 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 7 - Player 2 draws 7
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card Queen - Player 2 draws last card 5
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 5 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws Queen - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 9 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws Ace - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 4 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws 10 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 2 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws Jack - Player 2 draws Jack
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 6 - Player 2 draws last card 5
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 10 - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 10 - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 6 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 4 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 9 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 7 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 7 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Queen - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 5 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Queen - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 3 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 7 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 10 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 2 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 5 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 10 - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws King - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 8 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 7 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 4 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws Jack - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws Jack - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 6 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 5 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 10 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 8 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 30 cards - Player 2 has 22 cards
+Player 1 draws 10 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 31 cards - Player 2 has 21 cards
+Player 1 draws 8 - Player 2 draws 8
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 6 - Player 2 draws last card King
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 5 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 2 - Player 2 draws Ace
+Player 1 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Queen - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 9 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Ace - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 3 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 10 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 3 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 5 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 4 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws 10 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 9 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws King - Player 2 draws Jack
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 3 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws 7 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 5 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws Jack - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 9 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 6 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 4 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 10 - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 2 - Player 2 draws 7
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 8 - Player 2 draws 8
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 2 - Player 2 draws last card 5
+Player 2 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws Ace - Player 2 draws Queen
+Player 1 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Queen - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 3 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 7 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 10 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 2 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 10 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 4 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws King - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws Jack - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 7 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 5 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws Jack - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 4 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws 9 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 7 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws 6 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 2 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws 10 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 9 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Ace - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws Queen - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws Queen - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 9 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Ace - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 3 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 10 - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 3 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 10 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 5 - Player 2 draws 5
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 3 - Player 2 draws last card Queen
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 9 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 5 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 6 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 4 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 10 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 2 - Player 2 draws Ace
+Player 1 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 9 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 7 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Ace - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 6 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Queen - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 8 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Queen - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 10 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 9 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 6 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 6 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 10 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 8 - Player 2 draws 8
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 2 - Player 2 draws last card King
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 6 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 4 - Player 2 draws 7
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 2 - Player 2 draws 5
+Player 2 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws Ace - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 9 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 7 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Ace - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 5 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Queen - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 4 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Queen - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 7 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 9 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 2 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Ace - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 3 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 10 - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 3 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Ace - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 5 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 9 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 3 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Ace - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 5 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Queen - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 4 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Queen - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 10 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 9 - Player 2 draws 9
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 10 - Player 2 draws last card 2
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 8 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Ace - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 10 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 9 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 6 - Player 2 draws 7
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Ace - Player 2 draws 2
+Player 2 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 6 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Queen - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 10 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Queen - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 2 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 10 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 3 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 7 - Player 2 draws 7
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 6 - Player 2 draws last card 3
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 8 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 9 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 9 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 10 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 2 - Player 2 draws Ace
+Player 1 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 6 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 9 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 4 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 6 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 5 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws Queen - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 7 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws Queen - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 5 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 10 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 4 - Player 2 draws 7
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 4 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws Jack - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws Ace - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 2 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 8 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 9 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 7 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 7 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 6 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 3 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 9 - Player 2 draws 9
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 2 - Player 2 draws last card 4
+Player 2 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws Ace - Player 2 draws King
+Player 1 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Ace - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 3 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 9 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 5 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 6 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 4 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Queen - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 8 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws Queen - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 10 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws 10 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 6 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws Jack - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 2 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws Ace - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 10 - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 8 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 2 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 7 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 3 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws King - Player 2 draws Queen
+Player 1 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws Ace - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 5 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 9 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 7 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 6 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 5 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Queen - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 4 - Player 2 draws 4
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 4 - Player 2 draws last card King
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 10 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 2 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Jack - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 9 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Ace - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 7 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 10 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 8 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 8 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 6 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 7 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 3 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Ace - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 3 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws King - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws Queen - Player 2 draws Jack
+Player 1 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws Ace - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 10 - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 9 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 5 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Queen - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 2 - Player 2 draws 3
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 10 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 4 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Jack - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 10 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Ace - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 6 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 10 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 2 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 8 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 2 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 7 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 3 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Ace - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 5 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws King - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 7 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Queen - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws Jack - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 6 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 10 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 9 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 30 cards - Player 2 has 22 cards
+Player 1 draws 9 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 31 cards - Player 2 has 21 cards
+Player 1 draws 5 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 30 cards - Player 2 has 22 cards
+Player 1 draws Queen - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 31 cards - Player 2 has 21 cards
+Player 1 draws 8 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 32 cards - Player 2 has 20 cards
+Player 1 draws 10 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 33 cards - Player 2 has 19 cards
+Player 1 draws 7 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 32 cards - Player 2 has 20 cards
+Player 1 draws 10 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 31 cards - Player 2 has 21 cards
+Player 1 draws 5 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 30 cards - Player 2 has 22 cards
+Player 1 draws Ace - Player 2 draws 2
+Player 2 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 4 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 6 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 4 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 10 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 4 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 8 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 2 - Player 2 draws Ace
+Player 1 wins the cards!
+Player 1 has 30 cards - Player 2 has 22 cards
+Player 1 draws Ace - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 31 cards - Player 2 has 21 cards
+Player 1 draws 7 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 30 cards - Player 2 has 22 cards
+Player 1 draws King - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 31 cards - Player 2 has 21 cards
+Player 1 draws 8 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 30 cards - Player 2 has 22 cards
+Player 1 draws Queen - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 31 cards - Player 2 has 21 cards
+Player 1 draws 6 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 30 cards - Player 2 has 22 cards
+Player 1 draws Jack - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 31 cards - Player 2 has 21 cards
+Player 1 draws 8 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 30 cards - Player 2 has 22 cards
+Player 1 draws Ace - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 31 cards - Player 2 has 21 cards
+Player 1 draws 3 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 30 cards - Player 2 has 22 cards
+Player 1 draws 10 - Player 2 draws 10
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 9 - Player 2 draws last card Ace
+Player 2 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 5 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Queen - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 2 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 8 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 3 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 10 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 4 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 6 - Player 2 draws 7
+Player 2 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 2 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws 10 - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 7 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws 8 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 3 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws 2 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws Ace - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 5 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws King - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 7 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws Queen - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 6 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Jack - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 5 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Ace - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 7 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 5 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 2 - Player 2 draws Ace
+Player 1 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Queen - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 4 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 8 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 4 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 10 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 4 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 10 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 8 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 8 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 6 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws Ace - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 9 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 3 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws King - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 3 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws Queen - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 29 cards - Player 2 has 23 cards
+Player 1 draws 9 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 28 cards - Player 2 has 24 cards
+Player 1 draws 6 - Player 2 draws 7
+Player 2 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 5 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Jack - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 6 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Ace - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 10 - Player 2 draws 10
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 2 - Player 2 draws last card King
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 8 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 3 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 10 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 4 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 10 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 6 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 8 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 7 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws 8 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 2 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 7 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws Ace - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 3 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws King - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 2 - Player 2 draws 7
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws Queen - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 5 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws Jack - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 5 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws Ace - Player 2 draws 2
+Player 2 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 7 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws 8 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 4 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 10 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 4 - Player 2 draws 4
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 3 - Player 2 draws last card King
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 3 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws Ace - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 9 - Player 2 draws 9
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 5 - Player 2 draws last card 9
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Jack - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 6 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws 7 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 5 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Ace - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 3 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 4 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Jack - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 7 - Player 2 draws 7
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 7 - Player 2 draws last card Queen
+Player 2 wins the cards!
+Player 1 has 4 cards - Player 2 has 48 cards
+Player 1 draws Ace - Player 2 draws Ace
+Player 1 wins the cards!
+Player 1 has 5 cards - Player 2 has 47 cards
+Player 1 draws 3 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 6 cards - Player 2 has 46 cards
+Player 1 draws Jack - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 7 cards - Player 2 has 45 cards
+Player 1 draws 2 - Player 2 draws Ace
+Player 1 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Ace - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws Ace - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 3 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 2 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Jack - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 8 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws 2 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 7 cards - Player 2 has 45 cards
+Player 1 draws Ace - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Ace - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 4 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Ace - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 9 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws Jack - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 10 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 10 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws Ace - Player 2 draws King
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 8 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 4 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 2 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws Ace - Player 2 draws Queen
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 4 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws 9 - Player 2 draws 9
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card Ace - Player 2 draws last card 6
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 3 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Ace - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws King - Player 2 draws Jack
+Player 1 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 8 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 6 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws Ace - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws Queen - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 4 - Player 2 draws 7
+Player 2 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 9 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws Jack - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 5 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 3 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 9 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 9 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 9 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws Ace - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 6 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 5 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws King - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws Jack - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws 8 - Player 2 draws 8
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 9 - Player 2 draws last card 10
+Player 2 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 5 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Jack - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 2 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 9 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 5 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 9 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 7 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 9 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 7 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 7 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Ace - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 3 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws King - Player 2 draws Queen
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 2 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Jack - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 10 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 9 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 4 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 9 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 2 - Player 2 draws Ace
+Player 1 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 9 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 4 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws Ace - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 3 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws Ace - Player 2 draws Jack
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 6 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws King - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws Queen - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws Jack - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 4 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws 10 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 7 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 9 - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 5 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 9 - Player 2 draws 9
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 9 - Player 2 draws last card 2
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 6 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Ace - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 5 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Ace - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws Jack - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws King - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 3 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws Queen - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 10 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 4 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 2 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 10 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 4 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 7 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 6 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 9 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 8 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 3 - Player 2 draws 3
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card Ace - Player 2 draws last card Jack
+Player 1 wins the cards!
+Player 1 has 31 cards - Player 2 has 21 cards
+Player 1 draws King - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 30 cards - Player 2 has 22 cards
+Player 1 draws 9 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 31 cards - Player 2 has 21 cards
+Player 1 draws 9 - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 32 cards - Player 2 has 20 cards
+Player 1 draws 9 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 33 cards - Player 2 has 19 cards
+Player 1 draws 2 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 32 cards - Player 2 has 20 cards
+Player 1 draws Ace - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 33 cards - Player 2 has 19 cards
+Player 1 draws 5 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 32 cards - Player 2 has 20 cards
+Player 1 draws Ace - Player 2 draws Jack
+Player 1 wins the cards!
+Player 1 has 33 cards - Player 2 has 19 cards
+Player 1 draws 7 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 32 cards - Player 2 has 20 cards
+Player 1 draws King - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 33 cards - Player 2 has 19 cards
+Player 1 draws 7 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 32 cards - Player 2 has 20 cards
+Player 1 draws Queen - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 33 cards - Player 2 has 19 cards
+Player 1 draws 7 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 32 cards - Player 2 has 20 cards
+Player 1 draws 4 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 33 cards - Player 2 has 19 cards
+Player 1 draws 3 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 32 cards - Player 2 has 20 cards
+Player 1 draws 10 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 33 cards - Player 2 has 19 cards
+Player 1 draws 2 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 32 cards - Player 2 has 20 cards
+Player 1 draws 7 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 33 cards - Player 2 has 19 cards
+Player 1 draws 4 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 32 cards - Player 2 has 20 cards
+Player 1 draws 9 - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 33 cards - Player 2 has 19 cards
+Player 1 draws 4 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 32 cards - Player 2 has 20 cards
+Player 1 draws 10 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 31 cards - Player 2 has 21 cards
+Player 1 draws 10 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 30 cards - Player 2 has 22 cards
+Player 1 draws 2 - Player 2 draws 2
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 3 - Player 2 draws last card 7
+Player 2 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws 3 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 24 cards - Player 2 has 28 cards
+Player 1 draws Ace - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 25 cards - Player 2 has 27 cards
+Player 1 draws Jack - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 9 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 5 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 26 cards - Player 2 has 26 cards
+Player 1 draws 9 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 27 cards - Player 2 has 25 cards
+Player 1 draws 8 - Player 2 draws 8
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 5 - Player 2 draws last card Jack
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Ace - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws Jack - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws King - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 3 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws Queen - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 23 cards - Player 2 has 29 cards
+Player 1 draws 10 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 4 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 2 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws 10 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 4 - Player 2 draws 5
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws 7 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 6 - Player 2 draws 6
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 7 - Player 2 draws last card 7
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 7 - Player 2 draws last card King
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 9 - Player 2 draws 9
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card King - Player 2 draws last card Ace
+Player 2 wins the cards!
+Player 1 has 5 cards - Player 2 has 47 cards
+Player 1 draws 10 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 6 cards - Player 2 has 46 cards
+Player 1 draws Queen - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 7 cards - Player 2 has 45 cards
+Player 1 draws 10 - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws 10 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 5 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws 10 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 7 cards - Player 2 has 45 cards
+Player 1 draws 4 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 6 cards - Player 2 has 46 cards
+Player 1 draws Queen - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 7 cards - Player 2 has 45 cards
+Player 1 draws 8 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 6 cards - Player 2 has 46 cards
+Player 1 draws 10 - Player 2 draws 10
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card Queen - Player 2 draws last card 2
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 3 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 8 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws Ace - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws 10 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 4 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws 5 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 6 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws 10 - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 10 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Queen - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 2 - Player 2 draws 3
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws 8 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 4 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws Ace - Player 2 draws Jack
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 5 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 10 - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 7 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 6 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 2 - Player 2 draws 5
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws 10 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 8 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 10 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 2 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 8 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 6 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Ace - Player 2 draws Ace
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws Jack - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 5 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 3 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 10 - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 8 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 10 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 6 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 8 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 6 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 10 - Player 2 draws 10
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 6 - Player 2 draws last card 8
+Player 2 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 2 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws Ace - Player 2 draws Jack
+Player 1 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws Jack - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 6 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws 5 - Player 2 draws 5
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 8 - Player 2 draws last card 2
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 5 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws Ace - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 3 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws Ace - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws Jack - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws Jack - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 4 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 4 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 9 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws 10 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws Queen - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws 9 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws Ace - Player 2 draws King
+Player 1 wins the cards!
+Player 1 has 22 cards - Player 2 has 30 cards
+Player 1 draws 5 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 5 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 20 cards - Player 2 has 32 cards
+Player 1 draws 8 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 2 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 5 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 3 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Ace - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 4 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Ace - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 7 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Jack - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 6 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 4 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 2 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws 9 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 5 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 10 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 2 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 9 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 3 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Ace - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws King - Player 2 draws Queen
+Player 1 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 19 cards - Player 2 has 33 cards
+Player 1 draws 6 - Player 2 draws 6
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 8 - Player 2 draws last card 9
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 6 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 4 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws 4 - Player 2 draws 5
+Player 2 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 3 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 10 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 6 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 9 - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 2 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Ace - Player 2 draws 2
+Player 2 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 6 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws King - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws Queen - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Ace - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 3 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 10 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 5 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 9 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 8 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws King - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 5 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Queen - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 6 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Ace - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 3 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 10 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 4 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 9 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 7 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws King - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 2 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Queen - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 9 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Ace - Player 2 draws Jack
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 5 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 10 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 2 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 9 - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 3 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Queen - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 7 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Ace - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws Jack - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 5 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 4 - Player 2 draws 5
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 10 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 6 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 9 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 8 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Queen - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 6 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Ace - Player 2 draws Ace
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 4 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws 5 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 4 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 10 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 3 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 9 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 6 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Queen - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 2 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Ace - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws Ace - Player 2 draws Queen
+Player 1 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws 4 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 2 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 10 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 3 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 9 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 5 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Queen - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 8 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Ace - Player 2 draws King
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 5 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Ace - Player 2 draws 2
+Player 2 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws Queen - Player 2 draws Jack
+Player 1 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 10 - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 3 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 9 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 4 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Queen - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 7 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Ace - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws King - Player 2 draws Queen
+Player 1 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws Queen - Player 2 draws Jack
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws Jack - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws 10 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 9 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 9 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 2 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Queen - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 3 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Ace - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 7 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws King - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws Queen - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Queen - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws Jack - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 10 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 4 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 9 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 5 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 9 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 6 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Queen - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 8 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 18 cards - Player 2 has 34 cards
+Player 1 draws Ace - Player 2 draws 2
+Player 2 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 6 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws King - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 5 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Queen - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 6 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Queen - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 4 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 10 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 3 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 9 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 6 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 9 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 2 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Queen - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 4 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 8 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 6 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws King - Player 2 draws Jack
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 3 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Queen - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 5 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Queen - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 8 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 10 - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 5 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 6 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 2 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 9 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 3 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Queen - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 4 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 8 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 7 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws King - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws Jack - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Queen - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 2 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Queen - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 3 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 10 - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 7 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 9 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 4 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Queen - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 5 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 8 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 6 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws Jack - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 2 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws Queen - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 6 - Player 2 draws 6
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 6 - Player 2 draws last card King
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws 9 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 4 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Queen - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 3 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Jack - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 2 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Queen - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 4 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws 9 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 5 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Queen - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 8 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Jack - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 5 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Queen - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 6 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws 9 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 7 cards - Player 2 has 45 cards
+Player 1 draws 2 - Player 2 draws Ace
+Player 1 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Queen - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 3 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Jack - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 4 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Queen - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 7 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws 2 - Player 2 draws 4
+Player 2 wins the cards!
+Player 1 has 7 cards - Player 2 has 45 cards
+Player 1 draws Ace - Player 2 draws King
+Player 1 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Queen - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 2 - Player 2 draws Ace
+Player 1 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Jack - Player 2 draws 8
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 3 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Queen - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 7 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Ace - Player 2 draws 2
+Player 2 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws King - Player 2 draws Queen
+Player 1 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Queen - Player 2 draws Queen
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card Jack - Player 2 draws last card 10
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 8 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Queen - Player 2 draws 6
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 6 - Player 2 draws 6
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 6 - Player 2 draws last card 8
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws 2 - Player 2 draws 3
+Player 2 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 5 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Ace - Player 2 draws 2
+Player 2 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws 9 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 8 cards - Player 2 has 44 cards
+Player 1 draws Queen - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 9 cards - Player 2 has 43 cards
+Player 1 draws Queen - Player 2 draws Jack
+Player 1 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Jack - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 10 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 8 - Player 2 draws 8
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card Queen - Player 2 draws last card 6
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 4 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Queen - Player 2 draws 9
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws Jack - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Jack - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 5 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 3 - Player 2 draws 4
+Player 2 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws Ace - Player 2 draws 10
+Player 1 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Queen - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 5 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws 6 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws Jack - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 8 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 8 - Player 2 draws 9
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Queen - Player 2 draws 7
+Player 1 wins the cards!
+Player 1 has 17 cards - Player 2 has 35 cards
+Player 1 draws 6 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Queen - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 9 - Player 2 draws 2
+Player 1 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws Jack - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 3 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Ace - Player 2 draws Queen
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 10 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 14 cards - Player 2 has 38 cards
+Player 1 draws Queen - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 15 cards - Player 2 has 37 cards
+Player 1 draws 7 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 16 cards - Player 2 has 36 cards
+Player 1 draws 6 - Player 2 draws 6
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 8 - Player 2 draws last card 2
+Player 1 wins the cards!
+Player 1 has 21 cards - Player 2 has 31 cards
+Player 1 draws 3 - Player 2 draws 3
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 2 - Player 2 draws last card 2
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card 5 - Player 2 draws last card King
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws 7 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 4 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws 2 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 6 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws Jack - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 6 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 10 cards - Player 2 has 42 cards
+Player 1 draws 4 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 11 cards - Player 2 has 41 cards
+Player 1 draws 8 - Player 2 draws 4
+Player 1 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws 6 - Player 2 draws 5
+Player 1 wins the cards!
+Player 1 has 13 cards - Player 2 has 39 cards
+Player 1 draws 6 - Player 2 draws 8
+Player 2 wins the cards!
+Player 1 has 12 cards - Player 2 has 40 cards
+Player 1 draws 8 - Player 2 draws 8
+*****************************THIS IS WAR!!**********************************
+Player 1 and 2 draw 1 card face down.
+Player 1 and 2 draw 2 card face down.
+Player 1 and 2 draw 3 card face down.
+Player 1 draws last card Jack - Player 2 draws last card Queen
+Player 2 wins the cards!
+Player 1 has 7 cards - Player 2 has 45 cards
+Player 1 draws 5 - Player 2 draws Ace
+Player 2 wins the cards!
+Player 1 has 6 cards - Player 2 has 46 cards
+Player 1 draws 4 - Player 2 draws Jack
+Player 2 wins the cards!
+Player 1 has 5 cards - Player 2 has 47 cards
+Player 1 draws 3 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 4 cards - Player 2 has 48 cards
+Player 1 draws 8 - Player 2 draws 3
+Player 1 wins the cards!
+Player 1 has 5 cards - Player 2 has 47 cards
+Player 1 draws 4 - Player 2 draws 6
+Player 2 wins the cards!
+Player 1 has 4 cards - Player 2 has 48 cards
+Player 1 draws 6 - Player 2 draws 10
+Player 2 wins the cards!
+Player 1 has 3 cards - Player 2 has 49 cards
+Player 1 draws 5 - Player 2 draws King
+Player 2 wins the cards!
+Player 1 has 2 cards - Player 2 has 50 cards
+Player 1 draws 8 - Player 2 draws Queen
+Player 2 wins the cards!
+Player 1 has 1 cards - Player 2 has 51 cards
+Player 1 draws 3 - Player 2 draws 5
+Player 2 wins the cards!
+Player 1 has 0 cards - Player 2 has 52 cards
+Game Over!!!
+Player 2 wins the game!!
